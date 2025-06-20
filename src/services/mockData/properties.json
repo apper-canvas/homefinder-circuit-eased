@@ -1,0 +1,172 @@
+[
+  {
+    "Id": 1,
+    "title": "Modern Downtown Loft",
+    "price": 750000,
+    "address": "123 Main Street",
+    "city": "Seattle",
+    "state": "WA",
+    "zipCode": "98101",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "squareFeet": 1200,
+    "propertyType": "Condo",
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+    ],
+    "description": "Stunning modern loft in the heart of downtown Seattle with panoramic city views. Features include hardwood floors, floor-to-ceiling windows, and premium finishes throughout.",
+    "features": [
+      "City Views",
+      "Hardwood Floors",
+      "Floor-to-ceiling Windows",
+      "Modern Kitchen",
+      "In-unit Laundry",
+      "Parking Included"
+    ],
+    "coordinates": {
+      "lat": 47.6062,
+      "lng": -122.3321
+    },
+    "listingDate": "2024-01-15",
+    "status": "active",
+    "featured": true
+  },
+  {
+    "Id": 2,
+    "title": "Charming Victorian Home",
+    "price": 950000,
+    "address": "456 Oak Avenue",
+    "city": "Portland",
+    "state": "OR",
+    "zipCode": "97201",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "squareFeet": 2400,
+    "propertyType": "House",
+    "images": [
+      "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1505843513577-22bb7d21e455?w=800&h=600&fit=crop"
+    ],
+    "description": "Beautiful restored Victorian home with original architectural details and modern amenities. Located in a quiet neighborhood with tree-lined streets.",
+    "features": [
+      "Original Hardwood",
+      "Restored Details",
+      "Modern Kitchen",
+      "Garden",
+      "Garage",
+      "Walk to Parks"
+    ],
+    "coordinates": {
+      "lat": 45.5152,
+      "lng": -122.6784
+    },
+    "listingDate": "2024-01-12",
+    "status": "active",
+    "featured": true
+  },
+  {
+    "Id": 3,
+    "title": "Luxury Waterfront Condo",
+    "price": 1250000,
+    "address": "789 Waterfront Drive",
+    "city": "Vancouver",
+    "state": "WA",
+    "zipCode": "98661",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFeet": 1800,
+    "propertyType": "Condo",
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1560185007-cde436f6a4d0?w=800&h=600&fit=crop"
+    ],
+    "description": "Luxurious waterfront condominium with breathtaking river views. Premium building amenities include concierge, fitness center, and rooftop deck.",
+    "features": [
+      "Water Views",
+      "Concierge",
+      "Fitness Center",
+      "Rooftop Deck",
+      "Premium Appliances",
+      "Balcony"
+    ],
+    "coordinates": {
+      "lat": 45.6387,
+      "lng": -122.6615
+    },
+    "listingDate": "2024-01-10",
+    "status": "active",
+    "featured": true
+  },
+  {
+    "Id": 4,
+    "title": "Suburban Family Home",
+    "price": 650000,
+    "address": "321 Maple Street",
+    "city": "Bellevue",
+    "state": "WA",
+    "zipCode": "98004",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "squareFeet": 2200,
+    "propertyType": "House",
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1480074568708-e7b720bb3f09?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop"
+    ],
+    "description": "Perfect family home in desirable Bellevue neighborhood. Features spacious rooms, updated kitchen, and large backyard perfect for entertaining.",
+    "features": [
+      "Updated Kitchen",
+      "Large Backyard",
+      "2-Car Garage",
+      "Neighborhood Pool",
+      "Top Schools",
+      "Quiet Street"
+    ],
+    "coordinates": {
+      "lat": 47.6101,
+      "lng": -122.2015
+    },
+    "listingDate": "2024-01-08",
+    "status": "active",
+    "featured": false
+  },
+  {
+    "Id": 5,
+    "title": "Cozy Craftsman Cottage",
+    "price": 485000,
+    "address": "654 Pine Street",
+    "city": "Tacoma",
+    "state": "WA",
+    "zipCode": "98402",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "squareFeet": 950,
+    "propertyType": "House",
+    "images": [
+      "https://images.unsplash.com/photo-1449844908441-8829872d2607?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1576941089067-2de3c901e126?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&h=600&fit=crop"
+    ],
+    "description": "Charming craftsman cottage with original character and modern updates. Cozy fireplace, built-ins, and beautiful garden make this a special home.",
+    "features": [
+      "Original Character",
+      "Fireplace",
+      "Built-ins",
+      "Garden",
+      "Hardwood Floors",
+      "Covered Porch"
+    ],
+    "coordinates": {
+      "lat": 47.2529,
+      "lng": -122.4443
+    },
+    "listingDate": "2024-01-05",
+    "status": "active",
+    "featured": false
+  }
+]
