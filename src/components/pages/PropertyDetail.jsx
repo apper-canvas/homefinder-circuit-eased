@@ -6,6 +6,7 @@ import ApperIcon from '@/components/ApperIcon'
 import Button from '@/components/atoms/Button'
 import Badge from '@/components/atoms/Badge'
 import PropertyImageGallery from '@/components/organisms/PropertyImageGallery'
+import NeighborhoodStats from '@/components/organisms/NeighborhoodStats'
 import SkeletonLoader from '@/components/atoms/SkeletonLoader'
 import ErrorState from '@/components/atoms/ErrorState'
 import propertyService from '@/services/api/propertyService'
@@ -152,10 +153,13 @@ const PropertyDetail = () => {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.1 }}
-          className="mb-8"
+className="mb-8"
         >
           <PropertyImageGallery images={property.images} title={property.title} />
         </motion.div>
+
+        {/* Neighborhood Stats */}
+        <NeighborhoodStats propertyId={property.Id} />
 
         {/* Property Details */}
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
